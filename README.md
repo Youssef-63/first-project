@@ -1,3 +1,3 @@
 # first-project
 
-my first and initial work project
+my first app and initial work project 
